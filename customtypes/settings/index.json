@@ -40,13 +40,13 @@
                 "label": "Link",
                 "placeholder": "",
                 "allowTargetBlank": true,
-                "select": null,
+                "select": Null,
                 "allowText": true
               }
             }
           }
         }
-      },
+      }
       "footer_image": {
         "type": "Image",
         "config": {
