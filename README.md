@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is the finished code for a Prismic demo project. It is archived and no longer updated. To start a new Prismic project with Next.js, see the [Next.js guide](https://prismic.io/docs/nextjs).
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
